@@ -1,1 +1,0 @@
-{"malId":42260,"title":"Ninja Collection","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":4,"endTime":19},"skipType":"op","skipId":"op"},{"interval":{"startTime":241,"endTime":272},"skipType":"ed","skipId":"ed"}],"op":{"start":4,"end":19},"ed":{"start":241,"end":272},"opAbsent":false,"edAbsent":false}}}

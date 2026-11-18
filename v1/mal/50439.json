@@ -1,1 +1,0 @@
-{"malId":50439,"title":"SWARM","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":0,"endTime":128},"skipType":"op","skipId":"op"},{"interval":{"startTime":1820,"endTime":1944},"skipType":"ed","skipId":"ed"}],"op":{"start":0,"end":128},"ed":{"start":1820,"end":1944},"opAbsent":false,"edAbsent":false}}}

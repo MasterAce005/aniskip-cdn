@@ -1,1 +1,0 @@
-{"malId":50410,"title":"One Piece Film: Red","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":174,"endTime":420},"skipType":"op","skipId":"op"},{"interval":{"startTime":6744,"endTime":6864},"skipType":"ed","skipId":"ed"}],"op":{"start":174,"end":420},"ed":{"start":6744,"end":6864},"opAbsent":false,"edAbsent":false}}}
