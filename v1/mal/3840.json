@@ -1,0 +1,1 @@
+{"malId":3840,"title":"Glass Maiden","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":48,"endTime":139},"skipType":"op","skipId":"op"},{"interval":{"startTime":1314,"endTime":1403},"skipType":"ed","skipId":"ed"}],"op":{"start":48,"end":139},"ed":{"start":1314,"end":1403},"opAbsent":false,"edAbsent":false}}}

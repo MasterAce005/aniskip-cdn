@@ -1,0 +1,1 @@
+{"malId":63053,"title":"Kyoufu Collector","totalEpisodes":1,"episodes":{"6":{"found":true,"results":[{"interval":{"startTime":41,"endTime":130},"skipType":"op","skipId":"op"},{"interval":{"startTime":1408,"endTime":1498},"skipType":"ed","skipId":"ed"}],"op":{"start":41,"end":130},"ed":{"start":1408,"end":1498},"opAbsent":false,"edAbsent":false}}}

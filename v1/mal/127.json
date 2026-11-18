@@ -1,0 +1,1 @@
+{"malId":127,"title":"Gate Keepers","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":14,"endTime":137},"skipType":"op","skipId":"op"},{"interval":{"startTime":1370,"endTime":1411},"skipType":"ed","skipId":"ed"}],"op":{"start":14,"end":137},"ed":{"start":1370,"end":1411},"opAbsent":false,"edAbsent":false}}}

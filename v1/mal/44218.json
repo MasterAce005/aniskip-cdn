@@ -1,0 +1,1 @@
+{"malId":44218,"title":"Swallowed Star","totalEpisodes":1,"episodes":{"1":{"found":true,"results":[{"interval":{"startTime":0,"endTime":128},"skipType":"op","skipId":"op"},{"interval":{"startTime":1067.049,"endTime":1220},"skipType":"ed","skipId":"ed"}],"op":{"start":0,"end":128},"ed":{"start":1067.049,"end":1220},"opAbsent":false,"edAbsent":false}}}

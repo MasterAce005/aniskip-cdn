@@ -1,0 +1,1 @@
+{"malId":63489,"title":"Red River","totalEpisodes":1,"episodes":{"20":{"found":true,"results":[{"interval":{"startTime":41,"endTime":132},"skipType":"op","skipId":"op"},{"interval":{"startTime":1275,"endTime":1365},"skipType":"ed","skipId":"ed"}],"op":{"start":41,"end":132},"ed":{"start":1275,"end":1365},"opAbsent":false,"edAbsent":false}}}
